@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>cabin_cockpit_panel.ac</path>
+<!--
+  <animation> 
+    <type>textranslate</type> 
+    <object-name>painel</object-name> 
+    <property>/sim/time/sun-angle-rad</property>
+    <step> 1.57 </step>
+    <factor>0.318471338</factor>
+    <center>
+     <x-m> 0 </x-m>
+     <y-m> 0 </y-m>
+     <z-m> 0 </z-m>
+    </center>
+    <axis> 
+      <x> -1 </x> 
+      <y>  0 </y> 
+      <z>  0 </z> 
+    </axis> 
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>painel</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </greater-than>
+    </condition>
+    <emission>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  1.0 </blue>
+    </emission>
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>painel</object-name>
+    <condition>
+      <less-than-equals>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </less-than-equals>
+    </condition>
+    <emission>
+      <red>   0.0 </red>
+      <green> 0.0 </green>
+      <blue>  0.0 </blue>
+    </emission>
+  </animation>
+
+ -->
+
+<animation>
+ <type>material</type>
+    <object-name>painel</object-name>
+ <emission>
+  <red>0.5</red>
+  <green>0.45</green>
+  <blue>0.2</blue>
+  <factor-prop>controls/lighting/panel-norm</factor-prop>
+ </emission>
+</animation>
+
+
+  <!-- PFD -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/PFD/boeing747-400-pfd-jw.xml</path>
+    <offsets>
+      <x-m> 1.68274 </x-m>
+      <y-m> 0.515742 </y-m>
+      <z-m> 1.05284 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/PFD/boeing747-400-pfd-jw.xml</path>
+    <offsets>
+      <x-m> 1.68274 </x-m>
+      <y-m>-0.515742 </y-m>
+      <z-m> 1.05284 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- NAV -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/ENAV/boeing747-400-enav-jw.xml</path>
+    <offsets>
+      <x-m> 1.71036 </x-m>
+      <y-m> 0.515742 </y-m>
+      <z-m> 0.91076 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/ENAV/boeing747-400-enav-jw.xml</path>
+    <offsets>
+      <x-m> 1.71036 </x-m>
+      <y-m>-0.515742 </y-m>
+      <z-m> 0.91076 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- Altimeter -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/Alt/boeing747-400-alt-jw.xml</path>
+    <offsets>
+      <x-m> 1.68446 </x-m>
+      <y-m> 0.675662</y-m>
+      <z-m> 1.05399 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/Alt/boeing747-400-alt-jw.xml</path>
+    <offsets>
+      <x-m> 1.68446 </x-m>
+      <y-m>-0.368695 </y-m>
+      <z-m> 1.05399 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- ADF -->
+
+  <!-- STB AI -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/stb-AI/stby-ai.xml</path>
+    <offsets>
+      <x-m> 1.67883 </x-m>
+      <y-m>-0.237567 </y-m>
+      <z-m> 1.08295 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- Clock -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/clock/chronometer.xml</path>
+    <offsets>
+      <x-m> 1.71553 </x-m>
+      <y-m>-0.368695 </y-m>
+      <z-m> 0.894166 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/clock/chronometer.xml</path>
+    <offsets>
+      <x-m> 1.71553 </x-m>
+      <y-m> 0.675662 </y-m>
+      <z-m> 0.894166 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- STB IAS -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/stb-IAS/stby-asi.xml</path>
+    <offsets>
+      <x-m> 1.69598 </x-m>
+      <y-m>-0.239753 </y-m>
+      <z-m> 0.99472 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- IAS -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/IAS/asi.xml</path>
+    <offsets>
+      <x-m> 1.68582 </x-m>
+      <y-m>-0.654689 </y-m>
+      <z-m> 1.04698 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/IAS/asi.xml</path>
+    <offsets>
+      <x-m> 1.68582 </x-m>
+      <y-m> 0.379668 </y-m>
+      <z-m> 1.04698 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- EICAS -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/EICAS/eicas.xml</path>
+    <offsets>
+      <x-m> 1.67851 </x-m>
+      <y-m> 0.0 </y-m>
+      <z-m> 1.0846 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- EICAS 2 -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/EICAS/eicas.xml</path>
+    <offsets>
+      <x-m> 1.70835 </x-m>
+      <y-m> 0.0 </y-m>
+      <z-m> 0.931085 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- STB Altimeter -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/stb-Alt/stby-alt.xml</path>
+    <offsets>
+      <x-m> 1.71222 </x-m>
+      <y-m>-0.239753</y-m>
+      <z-m> 0.911158 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- TCAS / NDB -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/NDB/ndb.xml</path>
+    <offsets>
+      <x-m> 1.69989 </x-m>
+      <y-m>-0.368695 </y-m>
+      <z-m> 0.974615 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- VSPEED -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/VSI/vsi.xml</path>
+    <offsets>
+      <x-m> 1.69989 </x-m>
+      <y-m> 0.675662 </y-m>
+      <z-m> 0.974615 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- HSI -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/HSI/hsi.xml</path>
+    <offsets>
+      <x-m> 1.70531 </x-m>
+      <y-m>-0.652528 </y-m>
+      <z-m> 0.946708 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/HSI/hsi-2.xml</path>
+    <offsets>
+      <x-m> 1.70531 </x-m>
+      <y-m>-0.652528 </y-m>
+      <z-m> 0.946708 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/HSI/hsi.xml</path>
+    <offsets>
+      <x-m> 1.70531 </x-m>
+      <y-m> 0.381829 </y-m>
+      <z-m> 0.946708 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/HSI/hsi-2.xml</path>
+    <offsets>
+      <x-m> 1.70531 </x-m>
+      <y-m> 0.381829 </y-m>
+      <z-m> 0.946708 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- Flap indicator -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/Flaps/flaps.xml</path>
+    <offsets>
+      <x-m> 1.69665 </x-m>
+      <y-m> 0.131034 </y-m>
+      <z-m> 0.999051 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+
+  <!-- Marker Beacon -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/MarkerBeacon/marker_beacons.xml</path>
+    <offsets>
+      <x-m> 1.67302 </x-m>
+      <y-m>-0.368512 </y-m>
+      <z-m> 1.11285 </z-m>
+      <roll-deg>    -90 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/MarkerBeacon/marker_beacons.xml</path>
+    <offsets>
+      <x-m> 1.67302 </x-m>
+      <y-m> 0.368512 </y-m>
+      <z-m> 1.11285 </z-m>
+      <roll-deg>    -90 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- MCP -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/MCP/boeing747-400-mcp-jw.xml</path>
+    <offsets>
+      <x-m> 1.7345 </x-m>
+      <y-m> 0.0 </y-m>
+      <z-m> 1.20 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>   -11</pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+<!-- Yokes -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/Yokes/yokes.xml</path>
+    <offsets>
+      <x-m> 1.05411 </x-m>
+      <y-m> 0.0 </y-m>
+      <z-m> 0.38258 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>    0 </pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+<!-- Magnetic Compass -->
+  <model>
+    <path>Aircraft/757/Models/Cockpit/Instruments3/magcompass/mag-compass.xml</path>
+    <offsets>
+      <x-m> 1.63411 </x-m>
+      <y-m> 0.0 </y-m>
+      <z-m> 1.51077 </z-m>
+      <roll-deg>     0 </roll-deg>
+      <pitch-deg>    0 </pitch-deg>
+      <heading-deg>  0 </heading-deg>
+    </offsets>
+  </model>
+
+
+</PropertyList>
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">No Paint</name>
+        <texture>757-Aluminum.png</texture>
+		<texture2>757-Left-Wing.png</texture2> 
+      </livery>
+	  	  
+    </model>
+  </sim>
+</PropertyList>

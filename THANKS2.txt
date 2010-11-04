@@ -1,0 +1,7 @@
+Thank you very much for all contributors!
+
+Liam				Sketchup 3d model.
+jonbourg			YASim FDM, initial XML configurations, splash screen, livery system, Animation (Elevators, Rudder, Ailerons, Flaps AND Landing Gear), 
+Isix (Prestes)		Base XMLs using MexFG, 3D model ajustments (not all fixed), lights, generic panel 3d.
+
+http://www.flightgear.org/forums/viewtopic.php?f=4&t=3231&st=0&sk=t&sd=a&hilit=757

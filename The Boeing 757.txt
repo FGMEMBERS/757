@@ -1,0 +1,187 @@
+The Boeing 757
+==============
+
+March 30, 2010 in Global Resort Network by admin 
+http://www.ultra-internet-income.com/wp/the-boeing-757.html
+
+I
+
+Increasing demand on existing Boeing 727 routes, which often eclipsed the capacity of even the stretched, -200 series version, coupled with advanced technology, dictated the need for either a larger variant of this venerable tri-jet or an altogether new design.
+
+The first attempt, adopting the former approach, had featured a fuselage sufficiently stretched to accommodate 189 passengers and three refanned, higher-capacity Pratt and Whitney JT8D-217 engines, each developing 20,000 pounds of thrust.  Designated the 727-300B, it first appeared at the 1975 Paris Air Show in model form.  Despite initial interest from United Airlines, carriers had felt that it needed quieter, still-more advanced powerplants.
+
+A fundamental redesign, retaining the 727’s nose, forward fuselage, and t-tail, and designated “7N7,” featured a further fuselage stretch and a new technology wing, mated, like the much smaller 737, to two pylon-mounted engines, of which the Pratt and Whitney JT10D-4, Rolls Royce RB.211-535, and General Electric CF6-32 had then been considered.  Although it had been intended, like its inceptional counterpart, for one-stop transcontinental sectors, its wing contained sufficient fuel tank volume for eventual, long-range deployment.
+
+Because widebody comfort had been well received by passengers on intercontinental routes, one iteration had briefly explored a wider fuselage cross section for twin-aisle, 180-passenger accommodation.  The concept would have satisfied two needs: 1). It would have offered increased comfort, and therefore been more competitive with the then-pending Airbus Industrie A-300 on relatively short US domestic sectors, and 2). It would have avoided the excessively long fuselage needed to cater to any future capacity increases, obviating the requirement for long undercarriage struts to maintain proper take off rotation angles.
+
+The envisioned width, however, had been too much of a payoff for these advantages, as evidenced by weak airline interest, since the weight and drag associated with a second aisle and only one more seat abreast had been impractical, and its cross-section, although wider than that of the 7N7, had still been too narrow to accept standard LD-3 baggage and cargo containers.
+
+Reverting to its narrow body studies, Boeing proposed an advanced, large-capacity 727 which, by February of 1978, had featured its nose, cockpit, and fuselage cross-section, but had introduced a new wing and two turbofans for a 170-passenger complement, thus employing much of the commonality of the simultaneously-developed, twin-aisle 7X7 design.  Redesignated “757,” it would be Boeing’s fifth major commercial jetliner to carry the seven-dash-seven model sequencing numbers, after the 707, 727, 737, and 747, all but the last of which had been narrow bodies.
+
+Compared to the 727 it had been intended to replace, it had offered a 15-percent lower fuel consumption, yet its significant wing area inherently fostered weight, range, and capacity increases for any future derivatives.
+
+In order to reduce development costs associated with its 767, the widebody, twin-aisle, twin-engined counterpart initially also intended for one-stop transcontinental routes, Boeing, where feasible, incorporated maximum commonality in the two aircraft and the types therefore shared the same forward nose sections, windscreens, quad-wheeled main undercarriage units, avionics, and flight deck systems.  Indeed, the two aircraft, forming a new-generation of advanced narrow and widebody twinjets, would offer a common type rating, augmenting mixed-fleet flying of carriers which operated both types, and even the originally intended, 727-style t-tail had been deleted in favor of the conventional 767, low-wing configuration at the very end of the design phase, resulting in greater commonality with the 767 than the 727 it was intended to replace.
+
+Launch orders, for 21 firm and 24 options and 18 firm and 19 options, were respectively placed by Eastern Airlines and British Airways on August 13, 1978, for Rolls Royce RB.211-535C-powered aircraft.  Featuring a 196-passenger capacity in a six-abreast, 34-inch seat pitch configuration, the 757, with a 220,000-pound gross weight, was optimized for 2,000-nautical mile sectors, while an optional, 230,000-pound weight would increase range to 2,500 miles.
+
+Structural weight reductions, which lowered seat-mile costs, were achieved with advanced composite and aluminum alloy construction, the former comprised of carbon-fiber-reinforced plastics used in the engine cowlings, ailerons, spoilers, elevators, and the rudder, and kevlar-reinforced plastics employed in the engine pylon fairings and the fin and tailplane tip fairings.  Copper and zinc aluminum alloys were utilized in the wing skins, stringers, and lower spar beams.  The alloy, offering strength increases of between five and 13 percent, combined with the composites, reduced structure weight by 2,000 pounds and resulted in an average annual per-aircraft fuel savings of 30,000 US gallons based upon a utilization rate of 1,400 1,000-nautical mile sectors.
+
+The aircraft, in its initial 757-200 version, featured a 155.3-foot overall length.
+
+The aluminum alloy, two-spar wing, whose center section passed continuously through the fuselage, offered a 124.10-foot span, a 1,994 square foot area, and five percent of dihedral, and shared a high degree of commonality with that designed for the 767, its aft-loaded profile delaying Mach drag rise.  But it was thinner at its root juncture point with the fuselage and offered 25 as opposed to 32.5 percent of sweepback.  Its traditionally higher drag had been counteracted by its standardly intended mission profiles, which, because of their shorter durations, entailed greater percentages of climb and descent cycles.  It had a 7.82 aspect ratio, or ratio of length to width.
+
+Lift was augmented by full-span, five-section leading edge slats and double-slotted trailing edge flaps, while roll control was provided by al-speed, outboard ailerons, themselves assisted by five-section spoilers.  They could alternatively be deployed as speedbrakes in flight or lift dumpers on the ground, where two inboard spoiler panels could also be used.
+
+Power, provided by two high bypass ratio turbofans pylon-mounted to the wing’s leading edge underside, and whose diameter would not have been feasible with the 727’s aft fuselage installation arrangement, resulted in bending movement relief.
+
+The Rolls Royce RB.211-535C, the cropped fan version of the 42,000 thrust-pound RB.211-22B developed for the Lockheed L-1011 TriStar, employed composite pod construction to reduce weight and first ran on the 757 on January 23, 1982.  The three-shaft, 37,400 thrust-pound powerplant had been chosen by launch customers Eastern and British Airways.
+
+The more advanced RB.211-535E4, incorporating wide chord fan blades, high pressure module increases, and a common exhaust nozzle for the fan and core streams, offered an eight-percent fuel reduction in its cruise mode and a four-point pressure ratio increase, from 23:1 to 27:1, over its earlier –535C version.  The 40,100 thrust-pound engine was certified on November 30, 1983 and first flew on the 757 prototype the following February.
+
+The Pratt and Whitney PW2037, originally specified by American Airlines and Delta, had been the aircraft’s second, and only other, powerplant.  Initially designated JT10D, the two-shaft turbofan, inceptionally envisioned as a 26.700 thrust-pound engine when the program had been launched in February of 1972, had evolved into the current 37,000 thrust-pound turbofan whose high-pressure compressor efficiency had been improved with a smaller compressor coupled with higher core rotational speeds.  First flying on the 757 prototype in March of 1984, it was certified for 37,600 pounds of take off thrust and had a bypass ratio of 5.8:1.  The production version offered a thrust capability of 38,200 pounds, while higher gross weight derivations of the aircraft could alternatively be powered by 41,700 thrust-pound PW2040s.  
+
+Fuel was carried in two wing-integral and one center section tank, with that stored in the outer tanks burned last in order to maintain wing bending movement relief.  Capacity was 11,253 US gallons.
+
+The conventional, low-wing tailplane, adopted very late in the 757’s development program, facilitated an overall length reduction of 18 feet, yet resulted in a longer cabin than that of the 727 it replaced and improved ground maneuverability.  The variable incidence, elevator-equipped horizontal tail, built up of full-span, light alloy torque boxes, had a 542-square-foot area, while the vertical structure, comprised of a three-spar, dual-cell, light alloy torque box, covered a 370 square-foot area.
+
+The tricycle undercarriage featured a dual-wheeled, forward-retracting nose gear strut and two quad-wheeled, laterally-retracting units comprised of Dunlop or Goodrich wheels, carbon brakes, and tires.
+
+The cockpit standardly featured two operating crew and one observer seat, while the cabin, at 118.5 feet long, 11.7 feet wide, and seven feet high, had sported a widebody look with large, Kevlar, individually-closable overhead storage compartments; a sculpted ceiling; recessed lighting; molded sidewalls; and slimline seats.  Galley, lavatory, and wardrobe number and location varied according to customer preference, but could be installed forward, aft, or midships.
+
+Numerous class, pitch, and density seating arrangements, again according to customer choice, were available.  A 178-passenger complement, for instance, entailed 16 first class seats in a four-abreast, two-two, configuration at a 38-inch pitch and 162 economy class seats in a six-abreast, three-three, arrangement at a 34-inch pitch, while 208 passengers could be accommodated in a 12 first class and 196 economy class configuration, the latter at a 32-inch pitch.  Single-class, high-density, and inclusive tour/charter densities, at minimum 29-inch pitches, encompassed 214, 220, 234, and 239 passengers, the latter of which exceeded the 727-200’s maximum by 50 passengers and undercut the widebody 767-200’s by an equal number.
+
+Cabin access was provided by either three main passenger/servicing doors and two overwing emergency exits on either side or four main passenger/servicing doors on either side.
+
+The two underfloor cargo holds, accessed by starboard side, lower-deck doors, offered 700 cubic feet of space in the forward compartment and 1,090 cubic feet in the aft one.
+
+Boeing 757 systems included Honeywell-Vickers engine-driven hydraulic pumps and four Abex electric hydraulic pumps.  An Allied-Signal GTCP331-200 auxiliary power unit (APU) provided ground power for air conditioning, lighting, and engine starts.
+
+Full program approval had been received in March of 1979 and final assembly, like all previous narrow body jetliners, occurred in Renton, Washington, with the first metal cut on December 10 and the first major assembly taking place 13 months later, in January of 1981.
+
+First rolled out on January 13, 1982, or five months after its widebody 767 counterpart, and taking to the skies for the first time on February 19, the 757-200 prototype (N757A) was flown by Test Pilot John Armstrong and powered by 37,400 thrust-pound RB.211-535C turbofans, completing a successful two-hour, 31-minute inaugural sortie, during which it had attained a 250-knot indicated air speed (IAS) before landing at Boeing’’s Paine Field Flight Test Center in Everett.  Despite having introduced the first CRT display-equipped, two-person cockpit, and having been the first Boeing design to have been launched with a foreign powerplant type, it had demonstrated simple handling characteristics.
+
+The five aircraft used in the flight test program ultimately revealed that, in comparison to the design’s original, 1979 specifications, that it had had a 3,650-pound lower operating weight, a 200-nautical mile greater range capability, and burned three percent less fuel.
+
+FAA certified on December 21, 1982, the 757-200, Boeing’s longest single-aisle twinjet, entered scheduled passenger service with Eastern Airlines the following January 1 on the Atlanta-Tampa and Atlanta-Miami routes, while British Airways, configuring its aircraft for 12 first and 174 economy class seats, took delivery of the type on January 25 and inaugurated it into service on February 9, from London-Heathrow to Belfast, Northern Ireland.
+
+The first Pratt and Whitney PW2037-powered variant, first flying on March 14, 1984, had been delivered to launch customer Delta Air Lines seven months later, in October, the same month that Eastern received its first, improved powerplant example, fitted with the RB.211-535E4.
+
+So powered, the aircraft, with 186 mixed-class passengers, had a 220,000-pound maximum gross weight and a 198,000-pound maximum landing weight, offering a coincident 2,820-mile range capability, although medium-range versions had a 230,000-pound weight and long-range examples featured 250,000-pound gross weights, in which case 3,820-mile sectors could be flown.
+
+Although maturing DC-9, 727, and 737 routes had conceptionally dictated the need for the 757, its increasing gross weight and, hence range capability, permitted longer, trans- and intercontinental sector deployment, partially in response to rising fuel prices, and it often served, if not replaced, 767-200 services, thus complementing, before usurping, its twin-aisle counterpart.  Both Delta and Eastern, for example, operated transcontinental segments from their Atlanta hubs, while USAir mimicked this pattern to Los Angeles and San Francisco from its similar Pittsburgh flight base.  Ladeco operated intercontinental service from Santiago, Chile, to Miami and New York, while Canada 3000, Icelandair, and Air 2000 all operated scheduled and chartered transatlantic services.  El Al deployed the type between Tel Aviv and many of its European destinations. 
+
+II 
+
+Other than the initial 757-200 passenger version, Boeing offered several subvariants utilizing the same fuselage length and wingspan, although these sold in limited quantities.
+
+The first of these, the 757-200PF Package Freighter, was developed for United Parcel Service (UPS) when it had placed 20 firm and 15 optioned orders for the Pratt and Whitney PW2037-powered aircraft on December 31, 1985.  These featured a 134- by 86-inch, upward-opening, hydraulically-actuated main deck cargo door on the forward, left side; a smaller, 22- by 55-inch crew access door; a cargo loading system; a solid, sliding door-equipped barrier between the cockpit and the main deck freight bay; and the deletion of all passenger-related windows, galleys, and lavatories.  First delivered to UPS on September 16, 1987, the twinjet, with a 240,000-pound maximum take off weight, offered 6,680 cubic feet of main and 1,830 cubic feet of lower deck volume, permitting up to 15 pallets to be carried in the former passenger space.
+
+A modified version, the 757-200M Combi, retained the passenger facilities of the –200 and the cargo loading elements of the –200PF, enabling three pallets and 150 passengers to be simultaneously accommodated on the main deck.  Although it had been available with a 250,000-pound high gross weight, only one, in the event, had ever been ordered, by Royal Nepal Airlines.
+
+A conversion program, developed by Pemco Aeroplex in 1992, enabled carriers to modify existing passenger aircraft to mixed, quick-change, or all-cargo variants, with an 11,276 US gallon fuel capacity and maximum weights those of the –200PF.
+
+The only military version, the C-32A, had been ordered by the US Air Force to replace its fuel-thirsty, outmoded, quad-engined VC-137s, and it had featured a 45-passenger interior.  First flying from Renton on February 11, 1998, the aircraft, ultimately comprising a fleet of four, had been operated by the 89th Airlift Wing at Andrews Air Force Base in Maryland. 
+
+III 
+
+A representative, transatlantic 757-200 flight, operated by Icelandair from New York-JFK to Reykjavik, Iceland, is forthcomingly illustrated.
+
+The aircraft scheduled to operate the daily, evening departure to Iceland, registered TI-FIH, had been powered by 40,100 thrust-pound Rolls Royce RB.211-535E4 turbofans and configured for 22 four-abreast, two-two, Saga business class, winged- and footrest-equipped seats and 167 six-abreast, three-three, economy class seats, all covered with subdued, blue upholstery.  The 250,000-pound, high gross weight aircraft, with an 8,800-pound average cargo capacity, offered a 3,900-mile range.
+
+Pushed back from Gate 21 at JFK’s now-extant International Arrivals Building at 2050 abreast of a massive Korean Air 747-400 after a sweltering, 90-degree, early-summer day, the blue-trimmed, long-fuselaged 757-200, somehow reminiscent of the DC-8-63s it had replaced, but with only half the number of powerplants, was rendered an autonomous entity after towbar disconnection amidst the black dusk highlighted by the glow tracing the clouds on the western horizon.
+
+The two-person, transitional-technology cockpit featured both the traditional analog dials and six advanced cathode ray tube (CRT) displays, the former comprised of an airspeed indicator, an altimeter, a vertical velocity indicator, a clock, and standby flight instruments, while the latter consisted of the electronic flight instrument system (EFIS), two electronic attitude and direction indicators (EADI), and two engine indication and crew alerting systems (EICAS), the latter located on the center panel.  The electronic flight instrument system, subdivided into the attitude director indicator (ADI) and the horizontal situation indicator (HIS), provided aircraft attitude and positioning information by means of the CRT displays in seven colors.
+
+The attitude director indicator, specifically, provided aircraft attitude and pitch and roll data, along with ground speed, autopilot, autothrottle, and fight direction modes, operating in conjunction with the horizontal situation indicator, which itself yielded aircraft track, wind speed and direction, lateral and vertical deviations, and waypoint estimated times, and could be used in four basic modes.  The map mode, the first, generated weather radar returns in several scales, while the VOR mode provided the aircraft’s position relative to its selected VOR course.  The ILS mode yielded airplane relationship relative to its ILS localizer and glideslope, and the plan mode, the last of the four, displayed the desired portion of the flight plan with north located at the top of the screen.
+
+The flight deck otherwise featured the standard control yokes; a center console between the pilots sporting the throttles, the flap lever, and the speedbrakes; and a console behind it with communication and navigation instrumentation.
+
+Engine starting was achieved by turning the respective turbofan’s roof panel-located rotary ignition switch to one of its four start modes—“GRN,” “FLT,” “AUTO,” or “CONT”—after which the switch on the quadrant behind the throttles was flipped to channel fuel, while the required air to initiate fan rotation emanated from the tailcone-mounted auxiliary power unit.  Powerplant parameters, displayed on the upper, center CRT, included engine pressure ratio (EPR), fan speed (N1), intermediate rotor speed (N2), high-pressure rotor speed (N3), and oil temperature, oil pressure, and oil quantity.
+
+The flight plan and waypoints had already been loaded before initial pushback.
+
+A gentle throttle advance, after clearance from ground control, preceded the twinjet’s taxi, lateral movements made with the aid of the nosewheel steering tiller on the captain’s left side and ground velocity indicated by the EADI.
+
+Third for take off, the 216,000-pound 757-200, operating as Flight FI 614 and monitoring the tower on a frequency of 119.1, was instructed to follow the United 767-300 to Runway 13-Right, the green light taxiway centerline progressively consumed by the nose wheel as the aircraft moved toward the jewel light-glittering Twin Towers of the World Trade Center on the horizon.
+
+Once centered on the runway, the aircraft was instructed, “Icelandair 614, cleared for take off, Runway 13-Right.  Caution wake turbulence from United 767 heavy.”  Initiating spool-up of its two 40,100 thrust-pound Rolls Royce turbofans, it restrained its forward movement with the aid of its toe brakes, before depressing its thrust switch and unleashing itself into a lengthy, engine life preservation roll at reduced throttle settings and attaining initial control by means of its nose wheel until the rudder became effective at about 50 knots.  The green engine pressure ratio, exhaust gas temperature, fuel flow, N1, N2, and N3 indications, pinnacling on the CRT display, affirmed air- and fuel-generating thrust.
+
+Ground speed calls commenced at 80 knots, the aircraft accelerating through its V1 velocity of 162.  Horizontal stabilizer-leveraged into an eight-degree, nose wheel-disengaging rotation, the 757 divorced itself from the concrete by means of its now lift-generating wings, retracting its tricycle undercarriage and engaging its vertical pitch mode as it climbed through 200 feet at a 175-knot, 15-degree attitude.
+
+The exhaust gas temperature and fan speeds respectively registered 157 and 917.
+
+Pursuing its standard instrument departure (SID), the aircraft aileron-nodded into a left bank over the Belt Parkway into dusk, surmounting the gold, green, orange, and white light splotch, like iridescent paint poured atop a black canvas, of Queens, contacting New York Departure on 126.8.
+
+Climbing through 500 feet, it engaged its autopilot in order to control lateral navigation and rate of ascent, retracting its double-slotted trailing edge flaps from the five-degree position.
+
+Ascending though 3,400 feet, it was instructed to pursue a 060-degree heading and to climb and maintain 11,000 feet.  Crossing Long Island on a diagonal track, it assumed a 6,000 foot-per-minute climb at a 220-knot airspeed, the cockpit becoming increasingly encased in slipstream.  The climb checklist was completed.
+
+Further instructed to climb and maintain 17,000 feet, Flight 614 plunged through a smoky cloud deck toward Connecticut, surmounting its misty top at 24,000 feet where the last remnant of the icy blue sky had been temporarily floodlit by lightning flashes.
+
+Seemingly caught in a black, vaporous, turbulence-incubating void, the slender, narrow body fuselage, propelled by its wide diameter, life-providing engines, settled into its assigned plateau at flight level 350, bordered off its port wing by a line of arctic blue over Portland, Maine.  The VNAV was engaged.
+
+Dinner, detailed by the “Saga Business Class Menu” and preceded by a selection of aperitifs and spirits, included “pate diplomat” and jumbo shrimp on a bed of lettuce with fresh lemon and cocktail sauce; seafood in Pernod saffron sauce au gratin or filet of veal in mushroom cream sauce served with tortellini, green beans, and carrots; a selection of red and white vintage wines; a bread basket with Icelandic butter; Bel Paese soft Italian cheese, slices of gouda, crackers, red grapes, and walnuts; cheese cake in raspberry sauce topped with shaved chocolate; coffee; a selection of liqueurs; and French hazelnut-filled bonbons.
+
+Caught in the black, referenceless void as it pursued its northeasterly, transatlantic track, the intercontinental Boeing 757 had traced its invisible path over St. John, New Brunswick; the Gulf of St. Lawrence; and Goose Bay, Labrador, before departing the North American continent over the foreboding ocean, the only light now visible outside the cabin the reflection of the flashing, under-fuselage beacon on the port engine cowling.
+
+Because of the sun’s northern hemisphere location, however, day appeared quickly, at 0340 Iceland time, or 2340 New York time, in the form of a thin, barely perceptible line of cold, dull blue which separated the night sky above from the black, indistinguishable ocean surface and the smoky, slab-like layers of cloud below.  That line represented the horizon.  Somewhere, beyond the left wing, lay the tip of Greenland and, further north of it, Narssarssuaq.  The blue line intensified.
+
+Dawn’s subsequent chartreuse glow, piercing the cloud layers with fiery intensity, transformed the sky into a series of dull red and copper streaks, floodlighting the arctic snow-resembling cumulostratus cloud deck which now became visible beneath the engine pylon-supporting wings.
+
+Initiating its automatic landing, aircraft TI-FIH settled into a power-reduced, 3,500-foot-per-minute descent, transitioning through 32,000 feet as its airspeed indicator inched beyond the 300-knot mark.  Engine parameters, varying according to powerplant, included an engine pressure ratio of 096, a fan speed of 390, and an exhaust gas temperature of 307.  Landing weight, after enroute fuel burn, had been calculated as 180,000 pounds, or well below its maximum.
+
+Bowing toward and penetrating the white and gray, turbulence-producing cloud tendrils at 16,000 feet, the twinjet bored through the obscurity with its bullet nose, now assuming a 1,800 foot-per-minute descent rate.  In order to adhere to the 10,000-foot speed restriction, the airspeed was set for 250 knots and the altimeter for 2,000 feet.
+
+Descending through 9,000 feet at a shallow, 500 foot-per-minute rate, the captain clipped the ILS Approach Chart to Keflavik International Airport’s Runway 20 to his control yoke, tuning into the automatic terminal information service (ATIS) and noting cloud cover, rain, and a temperature of plus nine degrees Celsius for our arrival.
+
+Penetrating gray density on a 089-degree heading, the aircraft descended through 2,900 feet, at which point the altitude alert light illuminated, indicating imminent approach of the previously-set 2,000-foot limitation.  Indicated air speed (IAS) was now dialed to the “215”-knot mark.
+
+Maximum trailing edge flap extension speeds, according to the cockpit placard, indicated 240 knots for one degree, 220 for five degrees, 210 for 15, 195 for 20, 190 for 25, and 162 for 30.
+
+The EHSI display, changed to the expanded ILS mode, yielded weather and traffic data, and the localizer captive mode button was activated.
+
+Shedding the obscurity at 2,000 feet, the 757 emerged over the navy-gray, silver-capped Atlantic, briefly arresting its descent and leveraging into a right bank toward a 141-degree heading and the tip of Iceland.  The indicated air speed was dialed to the 180-knot setting.
+
+Extending its double-slotted flaps to the five-degree position as airspeed bled off to the 200-knot mark, Flight 614 maintained a 201-degree final approach heading.
+
+The undercarriage lever, lowered at 180 knots during review of the Final Approach Checklist, had been followed by incremental flap extensions, to the 20- and finally 30-degree positions, the latter, coincident with a noted, nose-down trim, at a 158-knot airspeed.  Needled by rain, the aircraft approached the red and white, runway-threshold lights, beyond which the white touchdown lines could be seen through the low-lying cloud sheaths.
+
+Passing over the green, brown, and gold moss-carpeted lava fields and the multi-colored roofs of Keflavik, the 757-200 descended through the 1,000-foot level at a 500 foot-per-minute rate, its VREF speed pegged at 143 knots, and closed the gap to Runway 20 amid a progressive flare and automatic altitude calls: “100…50…40…30…20…10.”
+
+Thudding on to the concrete with its quad-wheeled, outstretched main undercarriage units, the twinjet rebowed earthward until its nose wheel had made equal contact with the white light-centered strip, its thrust reverser and speedbrake handles already armed.
+
+Ground speed calls, mimicking those transmitted during the flare, ensued: “80…70…60…50,” at which point the reverse thrust mode was deactivated and the concrete barely moved beneath the cockpit windows.
+
+Turning off the active runway, now with the aid of the nose wheel steering tiller, the long, narrow body twin, somehow having assumed the mistaken identity of an intercontinental jetliner, taxied to Gate One next to an Icelandair 737-400 registered TI-FIB as the wand-instructing marshaller grew in size until he stood only inches from the nose, where the parking brake was engaged and the accordion-like jetbridge was extended to the second, port door. 
+
+IV 
+
+Increased demand on maturing 757 routes, coupled with the design’s inherent stretchability, resulted in the type’s first, and only, dimensionally divergent version, which offered ten-percent lower seat-mile costs and increased its passenger capacity and underfloor cargo volumes by, respectively, 20 and 50 percent.
+
+First announced on September 2, 1996, after German charter carrier Condor Flugdienst had placed an order for 12 firm and 12 optioned aircraft, the type, designated “757-300,” featured a 23.4-foot fuselage stretch, comprised of a 13.4-foot plug ahead of the wing and a ten-foot plug behind it, producing a new, 178.7-foot overall length.  The world’s largest, single-aisle twinjet, eclipsed only in length by the quad-engined DC-8 Super 60 series, it could accommodate 289 single-class, six-abreast passengers at a 29-inch pitch, although a typical mixed-class arrangement more standardly entailed 12 first class, four-abreast seats at a 36-inch pitch and 231 economy class, six-abreast seats at a 32-inch pitch, all in the elongated, 141.9-foot-long, wide-look cabin modeled after that of the Next Generation 737.  Lower-deck volume equally increased—to 1,071 cubic feet in the forward hold and 1,299 cubic feet in the aft hold.
+
+In order to cater to the increased stresses created by the longer fuselage, strengthening occurred on the wings, high-lift device, engine pylons, and undercarriage, and a tailskid ensured protection during excessive rotation angles.
+
+Still powered by two Rolls Royce RB.211-535E4 turbofans, the aircraft had a 240,000-pound maximum take off weight and a 2,055 nautical mile range with 243 passengers.
+
+The 757-300 prototype, NU701 and the 804th aircraft built, was first rolled out in Renton, Washington, on May 19, 1998, and took to the skies for the first time three months later, on August 2, completing a successful, 2.5-hour flight in which it attained a maximum, 250-knot indicated air speed and 16,000-foot altitude.  Employed in the initial airworthiness and basic controllability realm of the flight test program, it explored flutter, stalls, stability, and control, and demonstrated the need for vortex generator installation on the leading edge of the outboard flap to improve stall characteristics.
+
+ Two other airframes, NU721 and NU722, permitted completion of the program after 356 flights collectively totaling 912 hours, and led to FAA certification, for 180-minute ETOPS sorties, on January 27, 1999, concluding the shortest, design-to-production cycle of any previous Boeing derivative, which had spanned 27 months.
+
+Condor inaugurated the type into revenue service two months later, on March 19.
+
+Improvements to existing 757-200s and –300s were attained with the Aviation Partners Boeing Blended Winglet Retrofit Program.  Winglets, featuring large radii and smooth chord variations in transition sections, avoid drag-producing vortex concentrations and provide optimum aerodynamic loading, resulting in smaller wing tip vortices than either straight wing or even conventional winglet systems with angular transitions produce.
+
+The retrofit, which carried a system weight of 1,320 pounds, entailed outer skin and rib replacement, in-tank stringer reinforcement, lower cover fastener replacement, leading edge flap vortex generator additions, and new external position and anti-collision light installation.
+
+The system, increasing wingspan from a former 124.10 to a current 134.9 feet, yielded numerous economic and performance benefits, including an average annual, per-aircraft fuel savings of some 300,000 US gallons.
+
+The first eight-foot, two-inch winglet-equipped 757, a –200 series aircraft belonging to Continental Airlines, first flew on March 9, 2005 from Everett, Washington, and today the program qualifies as a resounding success. 
+
+V 
+
+On October 18, 2004, the 1,050th—and last—Boeing 757, an original-length –200 series, rolled out of the final assembly plant in Renton and was delivered to Shanghai Airlines of China the following year.
+
+The aircraft, having been designed as a larger-capacity, twin-engined, advanced counterpart to the 727, and as a smaller-capacity, narrow body complement to the simultaneously-developed 767, for one-stop transcontinental routes, uniquely filled two markets and hence created one of its own, ultimately morphing into both higher-capacity and longer-range intercontinental variants.  Of the 1,049 aircraft delivered, 913 had been 757-200s, 80 had been 757-200PFs, one had been a 757-200M, and 55 had been 757-300s.
+
+The victim of the recession and the post-9/11 reduction in air travel, the type was mostly usurped by Boeing’s own Next Generation 737 and the Airbus A-321, whose smaller passenger capacities more closely matched changing route demands.  Although the present 787-8 may provide limited replacement capability on high-capacity 757 sectors, no direct, advanced design counterpart is currently envisioned, with high-end versions of Boeing’s own eventual 737 replacement likely to qualify as its successor.  Nevertheless, the type represented the pinnacle of single-aisle, twin-engined airliner development, whose payload and range parameters far exceeded those traditionally associated with such a configuration.

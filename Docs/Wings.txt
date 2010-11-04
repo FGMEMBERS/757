@@ -1,0 +1,14 @@
+Root Chord (calculated, at body centerline) -- 360.85 inches
+Basic Chord (calculated) -- 286.50 inches
+Tip Chord (calculated) -- 68.00 inches
+Planform Taper Ratio
+Tip Chord/Basic Chord -- 0.237
+Tip Chord/Root Chord -- 0.188
+Dihedral (wing reference plane in relation to the body reference plane) -- 5 degrees
+Sweepback (25 percent chord line) -- 25 degrees
+Aspect Ratio -- 7.95
+Mean Aerodynamic Chord (basic wing only) -- 199.70 inches
+
+http://www.pprune.org/tech-log/104984-boeing-experts-pilots.html
+
+Golden Rivet

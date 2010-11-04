@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">TEST</name>
+        <texture>757-TEST.png</texture>
+		<texture3>757-LW-TEST.png</texture3> 
+      </livery>
+	  	  
+    </model>
+  </sim>
+</PropertyList>

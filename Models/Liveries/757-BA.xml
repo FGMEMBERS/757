@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">British Airways</name>
+        <texture>757-BA.png</texture>
+		<texture2>757-Left-Wing.png</texture2> 
+      </livery>
+	  	  
+    </model>
+  </sim>
+</PropertyList>
